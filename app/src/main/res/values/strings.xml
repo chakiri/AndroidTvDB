@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Mon Tv api</string>
+    <string name="profil_button">Mon Profil</string>
+    <string name="search_button">Rechercher</string>
+    <string name="return_button">Annuler</string>
+
+    <!-- profil page -->
+    <string name="name_label">Nom :</string>
+    <string name="language_label">Langage :</string>
+    <string name="favorite_display_label">Favorite display :</string>
+
+    <!-- search page -->
+    <string name="search_name">Rechercher une série :</string>
+    <string name="search_button_page">Rechercher</string>
+    <string name="search_by_name">Nom de votre série :</string>
+    <string name="search_by_imdb_id">Imbd Id :</string>
+
+    <!-- serie detail page -->
+    <string name="rating_serie_label">Note :</string>
+    <string name="episode_button">Episodes</string>
+    <string name="actors_button">Acteurs</string>
+
+    <!-- episodes detail page -->
+    <string name="episode_descr_label">Description :</string>
+</resources>
