@@ -1,8 +1,6 @@
 package com.example.chakiri.thetvdb.model;
 
-/**
- * Created by steve on 20/01/2018.
- */
+/**  * Created by chakiri */
 
 public class Authentication {
     private static final String APIKEY = "DB62F06438565B34";
